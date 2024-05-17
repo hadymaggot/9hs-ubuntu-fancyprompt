@@ -60,7 +60,7 @@
     trap 'update_output_color' DEBUG
   ```
 
-## Links
+## Full Code
 ```bash
   # Define a function to generate a random dark color code
   random_dark_color_code() {
