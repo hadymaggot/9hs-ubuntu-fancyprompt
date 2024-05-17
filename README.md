@@ -12,6 +12,9 @@
 <a href="https://webchat.oftc.net/?nick=&channels=%23ahadizapto&uio=d4" target="_blank"><img src="https://img.shields.io/badge/webIRC-9hs-magenta?logo=liberadotchat" alt="Build Status"></a>
 </p>
 
+<p align="center">
+<a href="https://ubuntu.org" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Build Status"></a>
+</p>
 
 ## Function
 - `random_dark_color_code()` ─ Function to generate random dark color
