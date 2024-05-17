@@ -25,6 +25,10 @@
 
 <a href="https://ubuntu.org" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Build Status"></a>
 
+For those of you who spend a lot of time using the Ubuntu operating system, maybe the script below can make your eyes comfortable when looking at your terminal.
+
+You can change the `.bashrc` file located in the `/home/$user` directory. and add the code below at the very top of the file.
+
 ## Function
 - `random_dark_color_code()` ─ Function to generate random dark color
   ```bash
@@ -87,3 +91,5 @@
   # Update the command output color before each command execution
   trap 'update_output_color' DEBUG
 ```
+
+You can contact me if you have any problems, I have included the link regarding my contact above. Thank You
